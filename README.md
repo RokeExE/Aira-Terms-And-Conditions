@@ -1,22 +1,22 @@
-# :page_facing_up: **Aira Bot — Terms and Conditions**
+# :page_facing_up: **Hridi Bot — Terms and Conditions**
 
-Last Updated: `August 15, 2025`
+Last Updated: `February 23, 2025`
 
 ## 1. Acceptance of Terms
 
-- By using Aira, you agree to these Terms and Conditions. If you do not agree, please do not use the bot.
+- By using Hridi, you agree to these Terms and Conditions. If you do not agree, please do not use the bot.
 
 
 ## 2. Description of Service
 
-- Aira is a multi-feature music bot designed for Discord servers. It allows users to play, queue, and manage songs from various platforms such as YouTube, Spotify, and Jiosaavn.
+- Hridi is a multi-feature music bot designed for Discord servers. It allows users to play, queue, and manage songs from various platforms such as YouTube, Spotify, and Jiosaavn.
 
 
 ## 3. User Conduct
 
 You agree not to:
 
-- Use Aira for illegal or abusive purposes.
+- Use Hridi for illegal or abusive purposes.
 - Spam commands or overload the bot.
 - Use the bot in violation of Discord’s Terms of Service or Community Guidelines.
 - Attempt to hack, modify, or exploit the bot in any way.
@@ -24,14 +24,14 @@ You agree not to:
 
 ## 4. Limitations and Disclaimer
 
-- Aira is provided "as is" with no guarantees of uptime, performance, or continued availability.
+- Hridi is provided "as is" with no guarantees of uptime, performance, or continued availability.
 - We are not responsible for third-party content (e.g., songs from YouTube or Spotify).
 - Music playback may vary depending on your server’s setup or Discord limitations.
 
 
 ## 5. Data Collection
 
-- Aira may collect limited data such as:
+- Hridi may collect limited data such as:
 - User IDs and Server IDs for command execution.
 - Playback and queue information (temporary memory only). We do not store any personal or sensitive information
 
